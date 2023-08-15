@@ -17,8 +17,6 @@ int main(){
         else{
             p+=e;
         }
-        cout<<"hello"<<endl;
-        
     }
     cout<<c<<endl;
     
